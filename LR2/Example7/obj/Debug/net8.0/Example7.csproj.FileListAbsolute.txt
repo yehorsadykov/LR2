@@ -1,0 +1,14 @@
+D:\Directory\LR2\Example7\bin\Debug\net8.0\Example7.exe
+D:\Directory\LR2\Example7\bin\Debug\net8.0\Example7.deps.json
+D:\Directory\LR2\Example7\bin\Debug\net8.0\Example7.runtimeconfig.json
+D:\Directory\LR2\Example7\bin\Debug\net8.0\Example7.dll
+D:\Directory\LR2\Example7\bin\Debug\net8.0\Example7.pdb
+D:\Directory\LR2\Example7\obj\Debug\net8.0\Example7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\LR2\Example7\obj\Debug\net8.0\Example7.AssemblyInfoInputs.cache
+D:\Directory\LR2\Example7\obj\Debug\net8.0\Example7.AssemblyInfo.cs
+D:\Directory\LR2\Example7\obj\Debug\net8.0\Example7.csproj.CoreCompileInputs.cache
+D:\Directory\LR2\Example7\obj\Debug\net8.0\Example7.dll
+D:\Directory\LR2\Example7\obj\Debug\net8.0\refint\Example7.dll
+D:\Directory\LR2\Example7\obj\Debug\net8.0\Example7.pdb
+D:\Directory\LR2\Example7\obj\Debug\net8.0\Example7.genruntimeconfig.cache
+D:\Directory\LR2\Example7\obj\Debug\net8.0\ref\Example7.dll
